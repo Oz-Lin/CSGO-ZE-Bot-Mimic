@@ -8,7 +8,7 @@ Not enough people playing on your server? No worries! Bots will replay your game
 ## Showcase Video
 YouTube: https://www.youtube.com/watch?v=Ba4o3VG9xjU 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ba4o3VG9xjU/0.jpg)](https://www.youtube.com/watch?v=Ba4o3VG9xjU)
+[![IMAGE ALT TEXT HERE](https://yt-embed.live/embed?v=Ba4o3VG9xjU)](https://www.youtube.com/watch?v=Ba4o3VG9xjU)
 
 Bilibili: https://www.bilibili.com/video/BV1uD4y167FQ
 

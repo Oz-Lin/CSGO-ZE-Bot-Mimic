@@ -3,7 +3,7 @@ Make bots great again in CS:GO Zombie Escape!
 
 Using this plugin https://forums.alliedmods.net/showthread.php?t=164148
 
-Bots will replay your gameplay footage on the human side. This would "kinda" make bots playable in zombie escape mode.
+Not enough people playing on your server? No worries! Bots will replay your gameplay footage on the human side. This would "kinda" make bots playable in zombie escape mode.
 
 ## Showcase Video
 YouTube: https://www.youtube.com/watch?v=Ba4o3VG9xjU 
@@ -14,13 +14,14 @@ Bilibili: https://www.bilibili.com/video/BV1uD4y167FQ
 
 ## Note to popular CS:GO zombie escape communities
 * You can choose not to have this plugin and configs since you already have more than 20 players every day. 
-* But if you like, feel free to contribute to this repository (See ) :)
+* But if you like, feel free to contribute to this repository (See `Contribution Rules` below) :)
 
 ## Installation
 1. Install `[CS:S/CS:GO] Bot Mimic - Record your movements (Version 2.1 updated 02.10.2014)` on your server -> Github Link: https://github.com/peace-maker/botmimic
 2. In your `csgo\cfg\sourcemod\plugin.botmimic.cfg`:
     * Set your cvar `sm_botmimic_snapshotinterval` to `1000`.
     * Set your cvar `sm_botmimic_respawnondeath` to `0`.
+3. Copy the `default` folder into your `csgo\addons\sourcemod\data\botmimic`
 
 
 ## Criteria of Supported Maps
@@ -43,3 +44,5 @@ Bilibili: https://www.bilibili.com/video/BV1uD4y167FQ
 * Discord: https://discord.io/ozlin-info
 * Steam Group: https://steamcommunity.com/groups/ozlin-gaming
 * or just send a GitHub issue
+
+![Gametracker banner(https://cache.gametracker.com/server_info/103.137.14.27:27058/b_560_95_1.png)](https://cache.gametracker.com/server_info/103.137.14.27:27058/b_560_95_1.png)

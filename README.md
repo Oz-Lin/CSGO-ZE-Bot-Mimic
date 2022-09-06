@@ -33,11 +33,13 @@ Bilibili: https://www.bilibili.com/video/BV1uD4y167FQ
 * Not all maps have slaying zone covered in all areas. Some bots might not be slayed at the end of map.
 
 ## Contribution Rules
+0. **IMPORTANT: Don't doorhug and do nothing! Keep shooting/throwing grenades on your way!**
 1. You must have the same cvar as in `Installation`
 2. You must start recording as soon as new round begins.
-3. If you are chosen as mother zombie after the infection countdown, or being killed or infected in the middle of recording, you must discard the recording.
-4. Naming the `.rec` footage files is optional, but good to do so :)
-5. If you are forking this repository, remember to keep your repository up-to-date before doing a pull request.
+3. When shooting props/obstacles, shoot for maybe one or two more seconds to encounter the mimic timing bug. Same with spamming E on buttons instead of just pressing buttons only once.
+4. If you are chosen as mother zombie after the infection countdown, or being killed or infected in the middle of recording, you must discard the recording.
+5. Naming the `.rec` footage files is optional, but good to do so :)
+6. If you are forking this repository, remember to keep your repository up-to-date before doing a pull request.
 
 ## Any other questions?
 * Australian Zombie Escape server: steam://connect/csgo.ozlin.info:27058
